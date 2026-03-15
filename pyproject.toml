@@ -13,6 +13,11 @@ dependencies = ["torch>=2.1"]
 [project.optional-dependencies]
 dev = ["pytest>=8.0"]
 
+[project.urls]
+Homepage = "https://github.com/ReeceKetley/torchodg"
+Repository = "https://github.com/ReeceKetley/torchodg"
+Issues = "https://github.com/ReeceKetley/torchodg/issues"
+
 [project.scripts]
 torchodg = "torchodg.cli:main"
 
