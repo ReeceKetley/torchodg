@@ -1,0 +1,8 @@
+Ref-filename:.\attacks\plain\control_copy.wav   Test-filename:C:\Users\User\Desktop\torchodg\attacks\plain\creative_pitch_up3_plain.wav
+ODG	DI	BWRef	BWTest	NMR	WModD1	ADB	EHS	AModD1	AModD2	NL	MFPD	RDF
+-3.90178E+000	-3.96453E+000	1.77477E+004	1.72180E+004	2.98722E+001	5.07404E+001	2.69213E+000	5.63391E-001	5.17962E+001	9.20285E+001	1.01644E+001	1.00000E+000	9.99263E-001	
+
+Ref-filename:.\attacks\plain\control_copy.wav   Test-filename:C:\Users\User\Desktop\torchodg\attacks\plain\creative_pitch_up3_plain.wav
+ODG	DI	BWRef	BWTest	NMR	WModD1	ADB	EHS	AModD1	AModD2	NL	MFPD	RDF
+-3.90178E+000	-3.96453E+000	1.77477E+004	1.72180E+004	2.98722E+001	5.07404E+001	2.69213E+000	5.63391E-001	5.17962E+001	9.20285E+001	1.01644E+001	1.00000E+000	9.99263E-001	
+

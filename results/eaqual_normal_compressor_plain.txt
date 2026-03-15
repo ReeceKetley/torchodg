@@ -1,0 +1,8 @@
+Ref-filename:.\attacks\plain\control_copy.wav   Test-filename:C:\Users\User\Desktop\torchodg\attacks\plain\normal_compressor_plain.wav
+ODG	DI	BWRef	BWTest	NMR	WModD1	ADB	EHS	AModD1	AModD2	NL	MFPD	RDF
+-1.65540E+000	2.14730E-001	1.55701E+004	1.55686E+004	-9.05309E+000	1.17726E+001	2.40880E+000	1.98307E-001	1.06827E+001	1.39892E+001	2.77621E-001	1.00000E+000	1.48230E-001	
+
+Ref-filename:.\attacks\plain\control_copy.wav   Test-filename:C:\Users\User\Desktop\torchodg\attacks\plain\normal_compressor_plain.wav
+ODG	DI	BWRef	BWTest	NMR	WModD1	ADB	EHS	AModD1	AModD2	NL	MFPD	RDF
+-1.65540E+000	2.14730E-001	1.55701E+004	1.55686E+004	-9.05309E+000	1.17726E+001	2.40880E+000	1.98307E-001	1.06827E+001	1.39892E+001	2.77621E-001	1.00000E+000	1.48230E-001	
+

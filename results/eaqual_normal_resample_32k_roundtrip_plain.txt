@@ -1,0 +1,8 @@
+Ref-filename:.\attacks\plain\control_copy.wav   Test-filename:C:\Users\User\Desktop\torchodg\attacks\plain\normal_resample_32k_roundtrip_plain.wav
+ODG	DI	BWRef	BWTest	NMR	WModD1	ADB	EHS	AModD1	AModD2	NL	MFPD	RDF
+8.89149E-002	3.43529E+000	2.13640E+004	1.82148E+004	-2.40236E+001	5.62952E-001	6.76059E-001	1.58452E-001	5.73457E-001	6.78404E-001	2.11780E-002	1.00000E+000	4.79351E-003	
+
+Ref-filename:.\attacks\plain\control_copy.wav   Test-filename:C:\Users\User\Desktop\torchodg\attacks\plain\normal_resample_32k_roundtrip_plain.wav
+ODG	DI	BWRef	BWTest	NMR	WModD1	ADB	EHS	AModD1	AModD2	NL	MFPD	RDF
+8.89149E-002	3.43529E+000	2.13640E+004	1.82148E+004	-2.40236E+001	5.62952E-001	6.76059E-001	1.58452E-001	5.73457E-001	6.78404E-001	2.11780E-002	1.00000E+000	4.79351E-003	
+

@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "torchodg"
+version = "0.1.0"
+description = "PyTorch-native approximation of PEAQ / BS.1387 ODG and DI scoring."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["torch>=2.1"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+torchodg = "torchodg.cli:main"
+
+[tool.setuptools]
+packages = ["torchodg"]

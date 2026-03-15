@@ -1,0 +1,8 @@
+Ref-filename:.\attacks\plain\control_copy.wav   Test-filename:C:\Users\User\Desktop\torchodg\attacks\plain\normal_lowpass12k_plain.wav
+ODG	DI	BWRef	BWTest	NMR	WModD1	ADB	EHS	AModD1	AModD2	NL	MFPD	RDF
+-3.26335E-001	1.90025E+000	2.08762E+004	1.73251E+004	-1.69055E+001	8.77737E-001	1.74997E+000	7.79030E-002	8.90361E-001	1.26947E+000	4.80679E-002	1.00000E+000	3.17109E-002	
+
+Ref-filename:.\attacks\plain\control_copy.wav   Test-filename:C:\Users\User\Desktop\torchodg\attacks\plain\normal_lowpass12k_plain.wav
+ODG	DI	BWRef	BWTest	NMR	WModD1	ADB	EHS	AModD1	AModD2	NL	MFPD	RDF
+-3.26335E-001	1.90025E+000	2.08762E+004	1.73251E+004	-1.69055E+001	8.77737E-001	1.74997E+000	7.79030E-002	8.90361E-001	1.26947E+000	4.80679E-002	1.00000E+000	3.17109E-002	
+
