@@ -4,6 +4,8 @@
 pipeline, focused on producing differentiable training losses and reusable
 building blocks for audio ML experiments.
 
+It's based on the GstPEAQ repo and public available documents on the BS.1387 standard.
+
 Today it includes:
 
 - PyTorch implementations of the PEAQ neural-network stage for basic and
